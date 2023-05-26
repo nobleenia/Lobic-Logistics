@@ -7,15 +7,23 @@ My company page in progress
 
 2. **styles.css**: This is the CSS file that contains the styles for the website. It includes styles for the body, header, navigation, sections, form elements, buttons, and footer.
 
-3. **header**: This section represents the website's header, which typically contains the company logo and a tagline.
+3. **about.html**: This is the HTML file that serves as the about page of the websit. It is different from the rest because it is envisaged to have more information in the future than it does now.
 
-4. **navigation**: This section includes the navigation menu that allows users to navigate through different pages or sections of the website.
+4. **contact.html**: This is on of the HTML supplementary pages that contains the contact information of the firm.
 
-5. **sections**: This section includes multiple sections that represent different content areas of the website. Each section may contain headings, paragraphs, lists, or forms.
+5. **services.html**: This HTML file contains the list of our current services and the future services which will be included as time goes on.
 
-6. **form**: This section includes a form that users can fill out to book appointments or contact the admin. It contains input fields for name, email, subject, and message.
+6. **header**: This section represents the website's header, which typically contains the company logo and a tagline.
 
-7. **footer**: This section represents the website's footer, which typically includes copyright information, contact details, and links to social media profiles.
+7. **navigation**: This section includes the navigation menu that allows users to navigate through different pages or sections of the website.
+
+8. **sections**: This section includes multiple sections that represent different content areas of the website. Each section may contain headings, paragraphs, lists, or forms.
+
+9. **form**: This section includes a form that users can fill out to book appointments or contact the admin. It contains input fields for name, email, subject, and message.
+
+10. **footer**: This section represents the website's footer, which typically includes copyright information, contact details, and links to social media profiles.
+
+11. **assets**: This folder contains all the media and multimedia fles which is used in the styles.css file for aesthetics.
 
 ## Functionality
 
